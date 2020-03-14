@@ -22,10 +22,10 @@ title: Raines Ironworks
 email: hammer@rainesforge.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Raines Ironworks store helps you buy shiz
-baseurl: "/riwstore" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/riwstore/" # the subpath of your site, e.g. /blog
-url: "https://dropbar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https:store.rainesironworks.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rainesiron
 github_username:  dropbar
 
