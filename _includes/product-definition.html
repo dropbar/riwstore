@@ -1,6 +1,7 @@
 <div>
   <label for="{{ product.identifier }}-qty">Quantity:</label>
   <input type="number" id="{{ product.identifier }}-qty" class="qty" min="1" value="1" />
+  {% if product.standard %}
   <button
     class="buy-button snipcart-add-item"
     data-item-quantity="1"
@@ -14,6 +15,7 @@
     data-item-custom1-options="None|Black|White|Custom Color[+10.00]">
     Add 1 to your cart (${{ product.price }})
   </button>
+  {% endif %}
 </div>
 {% if product.customize %}
 <button
