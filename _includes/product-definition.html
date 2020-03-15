@@ -25,7 +25,9 @@
   data-item-price="{{ product.price }}"
   data-item-image="{{ product.image }}"
   data-item-url="/"
-  data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}">
+  data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}"
+  data-item-custom1-name="Tell us about your project"
+  data-item-custom1-type="textarea">
   Get a Quote
 </button>
 {% endif %}
