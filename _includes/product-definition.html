@@ -15,3 +15,15 @@
     Add 1 to your cart (${{ product.price }})
   </button>
 </div>
+{% if product.customize %}
+<button
+  class="buy-button snipcart-add-item"
+  data-item-id="{{ product.identifier }}"
+  data-item-name="{{ product.name}}"
+  data-item-price="{{ product.price }}"
+  data-item-image="{{ product.image }}"
+  data-item-url="/"
+  data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}">
+  Get a Quote
+</button>
+{% endif %}
