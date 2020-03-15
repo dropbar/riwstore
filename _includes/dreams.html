@@ -1,0 +1,9 @@
+<div class="dream">
+  <div class="dream__information">
+    <h2 class="dream__title">{{ dream.name }}</h2>
+    <img src="{{ dream.image }}" alt="{{ dream.name }} dream image" class="dream__image">
+    <p class="dream__description">{{ dream.content | remove: '<p>' | remove: '</p>' }}</p>
+    {% include dream-definition.html %}
+  </div>
+  <img src="{{ dream.image }}" alt="{{ dream.name }} dream image" class="dream__image">
+</div>
