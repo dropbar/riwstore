@@ -7,6 +7,3 @@ layout: default
 {% for product in site.products %}
   {% include product.html %}
 {% endfor %}
-{% for dream in site.dreams %}
-  {% include dream.html %}
-{% endfor %}
