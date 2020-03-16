@@ -1,7 +1,7 @@
 ---
 identifier: RI-SH
 name: Sweetheart Planter
-price: 40.00
+price: 39.99
 image: /assets/images/heartRing.jpg
 standard: standard
 varisize2: varisize2

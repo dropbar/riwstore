@@ -1,7 +1,7 @@
 ---
 identifier: RI-BF
 name: Birdie Foot
-price: 45.00
+price: 44.99
 image: /assets/images/threelegs.jpg
 multicolor: multicolor
 #file_guid: 79b1504d-9127-4e7f-bcdb-dff84a337775
