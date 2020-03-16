@@ -1,6 +1,6 @@
 ---
 identifier: RI-GHP
-name: Giant Hexagon Hanger
+name: Giant Hexagon
 price: 74.99
 image: /assets/images/bix-hex.jpeg
 varisize: varisize3
@@ -8,5 +8,5 @@ varisize: varisize3
 ---
 Giant Hexagon Plant Hanger  
 Constructed of high quality stainless steel  
-Suitable for 10 and 12 inch pots  
+10 inch or 12 inch
 Measures 21 inches tall by 24 inches wide  
