@@ -9,4 +9,5 @@ standard: standard
 Keeps your packages safe and out of sight.  
 Powder coated metal planter with integrated drain  
 Measures 25 inches tall, 15 1/2 inches wide  
-Hidden compartment measures 14 inches tall by 13 inches wide
+
+Hidden compartment is 14 inches tall, 13 inches wide
