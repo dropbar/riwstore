@@ -6,4 +6,4 @@ image: /assets/images/cart-1.jpeg
 customize: custom quote
 #file_guid: 79b1504d-9127-4e7f-bcdb-dff84a337775
 ---
-Tell us what you are dreaming about, and we'll work with you to make it come true.
+Raines Ironworks can deliver a wide array of custom items, from handcrafted furniture, doors and gates, utility racks and truck accessories to beautiful range hoods and barbecue pits. Click the Get a Quote button to get started on your custom project. 

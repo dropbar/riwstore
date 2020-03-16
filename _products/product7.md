@@ -6,11 +6,8 @@ image: /assets/images/lead-ballon.jpeg
 standard: standard
 #file_guid: 66edfe7f-0851-4418-93e8-785975df7318
 ---
-Hot Air Balloon
-Powder coated steel Hot Air Balloon hanging planter.
+Powder coated steel Hot Air Balloon hanging planter.  
 
+Can hold a 6in, 8in or 10in pot  
 
-Can hold a 6in, 8in or 10in pot
-
-
-Measures-18in tall 12in wide
+Measures 18 inches tall, 12 inches wide
