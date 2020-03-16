@@ -9,6 +9,8 @@ standard: standard
 Hot Air Balloon
 Powder coated steel Hot Air Balloon hanging planter.
 
+
 Can hold a 6in, 8in or 10in pot
+
 
 Measures-18in tall 12in wide
