@@ -8,5 +8,7 @@ standard: standard
 ---
 
 
-- Wall mount, wood and steel  
+- Wood and Steel  
+- Wall mount
+- 8.5" x 2.5"
 - Set of two
