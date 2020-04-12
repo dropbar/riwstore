@@ -12,7 +12,7 @@ varisize2: varisize2
 
 - Black, White, or Gray
 
-- 16" tall by 12" wide
+- Measures 16" tall by 12" wide
 
 - Holds 4" pot: $39.99
 

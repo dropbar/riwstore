@@ -10,7 +10,7 @@ standard: standard
 
 - Keeps your packages safe and out of sight.  
 - Powder coated metal planter with integrated drain  
-- 25" tall by 15.5" wide  
+- Measures 25" tall by 15.5" wide  
 - Hidden compartment is 14" tall by 13" wide
 - Black
 - $199.99

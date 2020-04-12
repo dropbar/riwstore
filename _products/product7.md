@@ -11,4 +11,4 @@ standard: standard
 - Powder coated metal Hot Air Balloon hanging planter.
 - Black, White, or Gray  
 - Holds 6", 8", or 10" pot (indicate at checkout)  
-- 18" tall by 12" wide
+- Measures 18" tall by 12" wide

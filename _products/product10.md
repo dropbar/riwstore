@@ -10,6 +10,6 @@ varisize3: varisize3
 
 - Powder coated extra large hexagon wall mounted planter
 - Black, White, or Gray  
-- 21" tall by 24" wide
+- Measures 21" tall by 24" wide
 - Holds 10" pot: $74.99
 - Holds 12" pot: $84.99  

@@ -10,6 +10,6 @@ varisize: varisize2
 
 - Powder coated steel hanging planter
 - Black, White, or Gray
-- 18" diameter
+- Measures 18" diameter
 - Holds 4" pot: 12.5" diameter $36.99
 - Holds 6" pot: 18" diameter $39.99

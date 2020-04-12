@@ -9,7 +9,8 @@ standard: standard
 
 
 - Powder coated metal hanging planter  
-- Black, White, or Gray  
-- 22" tall by 9" wide
+- Black, White, or Gray
+- Holds 6" pot  
+- Measues 22" tall by 9" wide
 - $44.99
 - Add a hanging glass crystal for an additional $5
