@@ -8,5 +8,7 @@ multicolor: multicolor
 ---
 
 - Sealed wood top with iron legs  
-- 20 inches tall   
-- Raw iron or Black, White, Teal, Pink, Yellow, or Green Powdercoat.
+- 20" tall by 12" wide  
+- Available Colors: Black, White, Clear, Teal, Pink, Yellow, and Green
+- Let us know you color choice in the order notes
+- $44.99

@@ -6,5 +6,10 @@ image: /assets/images/circle-small.jpeg
 varisize: varisize2
 #file_guid: 79b1504d-9127-4e7f-bcdb-dff84a337775
 ---
-Powder coated steel circle hanging planter  
-18 inch diameter
+
+
+- Powder coated steel hanging planter
+- 18" diameter
+- Black, White, or Gray
+- Holds 4" pot: 12.5" diameter $36.99
+- Holds 6" pot: 18" diameter $39.99
