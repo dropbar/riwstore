@@ -7,8 +7,9 @@ multicolor: multicolor
 #file_guid: 79b1504d-9127-4e7f-bcdb-dff84a337775
 ---
 
+
 - Sealed wood top with iron legs  
 - 20" tall by 12" wide  
-- Available Colors: Black, White, Clear, Teal, Pink, Yellow, and Green
-- Let us know you color choice in the order notes
+- Available Colors: Black, White, Clear, Teal, Pink, Yellow, and Green.
+  Let us know your color choice in the order notes
 - $44.99

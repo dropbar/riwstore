@@ -8,7 +8,7 @@ standard: standard
 ---
 
 
-- Wood and Steel Wall mounted Gun Rack
+- Wood and metal wall mounted Gun Rack
 - 8.5" x 2.5"
 - Set of two
 - $49.99

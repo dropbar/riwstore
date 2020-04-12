@@ -6,6 +6,9 @@ image: /assets/images/lead-ballon.jpeg
 standard: standard
 #file_guid: 66edfe7f-0851-4418-93e8-785975df7318
 ---
-Powder coated steel Hot Air Balloon hanging planter.  
-Can hold a 6in, 8in or 10in pot  
-Measures 18 inches tall, 12 inches wide
+
+
+- Powder coated metal Hot Air Balloon hanging planter.
+- Black, White, or Gray  
+- Holds 6", 8", or 10" pot (indicate at checkout)  
+- 18" tall by 12" wide
