@@ -1,6 +1,6 @@
 ---
 identifier: RI-FLH
-name: Faith Love and Hope
+name: Faith, Love, and Hope
 price: 74.99
 image: /assets/images/anchor.jpg
 standard: standard
