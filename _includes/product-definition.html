@@ -2,11 +2,6 @@
   {% if product.standard %}
   <label for="{{ product.identifier }}-qty">Quantity:</label>
   <input type="number" id="{{ product.identifier }}-qty" class="qty" min="1" value="1" />
-  <select id="Finish" class="qty">
-    <option>Black</option>
-    <option>White</option>
-    <option>Gray</option>
-  </select>
   <button
     class="buy-button snipcart-add-item"
     id="stdbutton"
@@ -20,7 +15,8 @@
     data-item-custom1-name="Color"
     data-item-custom1-options="Black|White|Gray">
     <!--data-item-custom2-name="Custom Color"-->
-    Add 1 to your cart (${{ product.price }})
+    <!--Add 1 to your cart (${{ product.price }})-->
+    Buy Now
   </button>
   {% endif %}
   {% if product.varisize %}
