@@ -1,6 +1,6 @@
 ---
 identifier: RI-FLH
-name: Faith, Love, and Hope
+name: 3 Traits
 price: 74.99
 image: /assets/images/anchor.jpg
 standard: standard
@@ -8,6 +8,6 @@ standard: standard
 ---
 
 
-- Bronze welded steel
+- Steel with a Bronze finish
 - 14"x14" $74.99
 - 24"x24" $174.99
