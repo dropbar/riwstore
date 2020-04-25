@@ -4,7 +4,6 @@
   <input type="number" id="{{ product.identifier }}-qty" class="qty" min="1" value="1" />
   <button
     class="buy-button snipcart-add-item"
-    id="stdbutton"
     data-item-quantity="1"
     data-item-id="{{ product.identifier }}"
     data-item-name="{{ product.name }}"
@@ -19,7 +18,6 @@
   <input type="number" id="{{ product.identifier }}-qty" class="qty" min="1" value="1" />
   <button
     class="buy-button snipcart-add-item"
-    id="stdbutton"
     data-item-quantity="1"
     data-item-id="{{ product.identifier }}"
     data-item-name="{{ product.name }}"
@@ -45,7 +43,7 @@
     data-item-price="{{ product.price }}"
     data-item-image="{{ product.image }}"
     data-item-url="https://store.rainesironworks.com{{ page.url }}"
-    data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}"
+    <!--data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}"-->
     data-item-custom1-name="Finish"
     data-item-custom1-options="Raw|Black Powdercoat|White Powdercoat|Custom Color[+10.00]"
     data-item-custom2-name="Custom Color"
