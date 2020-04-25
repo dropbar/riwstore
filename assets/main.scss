@@ -172,7 +172,8 @@ body {
       transform: perspective(650px) scale(0.8) translateX(30px);
       border-style: solid;
       border-width: 5px;
-      box-shadow: 30px 30px 50px transparentize(darken($color--primary, 50%), 0.9);
+      //added borders
+      box-shadow: 30px 30px 50px transparentize(darken($color--primary, 60%), 0.3);
       @include sm {
         //transform: perspective(650px) rotateZ(5deg) rotateX(-2.5deg) rotateY(-15deg) scale(0.8) translateX(-30px);
         transform: perspective(650px) scale(0.8) translateX(-30px);
@@ -204,16 +205,21 @@ body {
     flex: 1;
     height: 100%;
     width: 100%;
-    max-width: 500px;
-    max-height: 400px;
+    max-width: 900px;
+    //this was 500px
+    max-height: 900px;
+    //this was 400px
     background-size: cover;
     //transform: perspective(650px) rotateZ(-5deg) rotateX(2.5deg) rotateY(15deg) scale(0.8) translateX(-30px);
     transform: perspective(650px) scale(0.8) translateX(-30px);
-    box-shadow: -30px 30px 50px transparentize(darken($color--primary, 50%), 0.9);
+    border-style: solid;
+    border-width: 5px;
+    //added borders
+    box-shadow: -30px 30px 50px transparentize(darken($color--primary, 50%), 0.3);
     @include sm {
       //transform: perspective(650px) rotateZ(5deg) rotateX(-2.5deg) rotateY(-15deg) scale(0.8) translateX(-30px);
       transform: perspective(650px) scale(0.8) translateX(-30px);
-      box-shadow: 30px 30px 50px transparentize(darken($color--primary, 50%), 0.9);
+      box-shadow: 30px 30px 50px transparentize(darken($color--primary, 50%), 0.3);
       &:last-child {
         display: none;
       }
