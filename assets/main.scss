@@ -10,7 +10,7 @@ $color--default: #3a3a3a;
 $color--light: lighten($color--default, 65%);
 $color--primary: #429bfc;
 $color--secondary: #429bfc;
-$color--background: #f8faff;
+$color--background: #e3e5e7;
 
 $size--unit: 8px;
 
@@ -114,13 +114,13 @@ body {
   }
 
   &__logo {
-    max-height: $size--unit*4;
+    max-height: $size--unit*8;
     margin-right: $size--unit*1;
   }
 
   &__title {
     font-weight: bold;
-    font-size: $size--unit * 3;
+    font-size: $size--unit * 4;
     cursor: pointer;
   }
 

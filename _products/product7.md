@@ -1,6 +1,6 @@
 ---
 identifier: RI-SB
-name: Balloon Hanger
+name: Balloon
 price: 74.99
 image: /assets/images/lead-ballon.jpeg
 standard: standard

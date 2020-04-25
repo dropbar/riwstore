@@ -1,6 +1,6 @@
 ---
 identifier: RI-OP
-name: Outasight Planter
+name: Outasight
 price: 199.99
 image: /assets/images/hide-01.jpg
 standard: standard

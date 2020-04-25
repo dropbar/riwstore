@@ -1,6 +1,6 @@
 ---
 identifier: RI-HP
-name: Hexagon Hanger
+name: Hexagon
 price: 39.99
 image: /assets/images/hexpot.jpg
 varisize: varisize
