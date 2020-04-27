@@ -29,67 +29,7 @@
     <!--data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}"-->
     <!--data-item-custom2-name="Custom Color"-->
     <!--Add 1 to your cart (${{ product.price }})-->
-    Add to your Cart
-  </button>
-  {% endif %}
-  {% if product.varisize %}
-  <label for="{{ product.identifier }}-qty">Quantity:</label>
-  <input type="number" id="{{ product.identifier }}-qty" class="qty" min="1" value="1" />
-  <button
-    class="buy-button snipcart-add-item"
-    data-item-quantity="1"
-    data-item-id="{{ product.identifier }}"
-    data-item-name="{{ product.name }}"
-    data-item-price="{{ product.price }}"
-    data-item-image="{{ product.image }}"
-    data-item-url="https://store.rainesironworks.com{{ page.url }}"
-    <!--data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}"-->
-    data-item-custom1-name="Finish"
-    data-item-custom1-options="Raw|Black Powdercoat|White Powdercoat|Custom Color[+10.00]"
-    data-item-custom2-name="Custom Color"
-    data-item-custom3-name="Size (inches)"
-    data-item-custom3-options="4|6[+5.00]">
-    Add 1 to your cart (${{ product.price }})
-  </button>
-  {% endif %}
-  {% if product.varisize2 %}
-  <label for="{{ product.identifier }}-qty">Quantity:</label>
-  <input type="number" id="{{ product.identifier }}-qty" class="qty" min="1" value="1" />
-  <button
-    class="buy-button snipcart-add-item"
-    data-item-quantity="1"
-    data-item-id="{{ product.identifier }}"
-    data-item-name="{{ product.name }}"
-    data-item-price="{{ product.price }}"
-    data-item-image="{{ product.image }}"
-    data-item-url="https://store.rainesironworks.com{{ page.url }}"
-    data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}"
-    data-item-custom1-name="Finish"
-    data-item-custom1-options="Raw|Black Powdercoat|White Powdercoat|Custom Color[+10.00]"
-    data-item-custom2-name="Custom Color"
-    data-item-custom3-name="Size (inches)"
-    data-item-custom3-options="4|6[+5.00]">
-    Add 1 to your cart (${{ product.price }})
-  </button>
-  {% endif %}
-  {% if product.varisize3 %}
-  <label for="{{ product.identifier }}-qty">Quantity:</label>
-  <input type="number" id="{{ product.identifier }}-qty" class="qty" min="1" value="1" />
-  <button
-    class="buy-button snipcart-add-item"
-    data-item-quantity="1"
-    data-item-id="{{ product.identifier }}"
-    data-item-name="{{ product.name }}"
-    data-item-price="{{ product.price }}"
-    data-item-image="{{ product.image }}"
-    data-item-url="https://store.rainesironworks.com{{ page.url }}"
-    data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}"
-    data-item-custom1-name="Finish"
-    data-item-custom1-options="Black Powdercoat|White Powdercoat|Gray Powdercoat"
-    data-item-custom2-name="Custom Color"
-    data-item-custom4-name="Size (inches)"
-    data-item-custom4-options="10|12[+10.00]">
-    Add 1 to your cart (${{ product.price }})
+    Add to Cart
   </button>
   {% endif %}
   {% if product.multicolor %}
@@ -104,9 +44,8 @@
     data-item-image="{{ product.image }}"
     data-item-url="https://store.rainesironworks.com{{ page.url }}"
     data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}"
-    data-item-custom-name="Finish"
-    data-item-custom-options="Raw|Black|White|Teal|Pink|Yellow|Green"
-    data-item-custom2-name="Custom Color">
+    data-item-custom2-name="Finish"
+    data-item-custom2-options="Raw|Black|White|Teal|Pink|Yellow|Green">
     Add 1 to your cart (${{ product.price }})
   </button>
   {% endif %}
@@ -120,8 +59,8 @@
   data-item-image="{{ product.image }}"
   data-item-url="/"
   data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}"
-  data-item-custom1-name="Project description"
-  data-item-custom1-type="textarea">
+  data-item-custom3-name="Project description"
+  data-item-custom3-type="textarea">
   Get a Quote
 </button>
 {% endif %}

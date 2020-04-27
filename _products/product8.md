@@ -3,7 +3,7 @@ identifier: RI-HP
 name: Hexagon
 price: 39.99
 image: /assets/images/hexpot.jpg
-varisize: varisize
+standard: standard
 #file_guid: 09e589c7-3d18-4c2e-9cee-4f447e9f054a
 ---
 
