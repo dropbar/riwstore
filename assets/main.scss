@@ -93,12 +93,14 @@ body {
 // Components
 .header {
   width: 100%;
+  background-color: #fffa00;
   display: flex;
   align-items: center;
   margin-bottom: $size--unit * 6;
   padding-top: $size--unit * 4;
   padding-bottom: $size--unit * 4;
   border-bottom: 1px solid $color--light;
+
 
   &__container {
     display: flex;
@@ -173,7 +175,7 @@ body {
       border-style: solid;
       border-width: 10px;
       //added borders
-      box-shadow: 30px 30px 50px transparentize(darken($color--primary, 60%), 0.6);
+      //box-shadow: 30px 30px 50px transparentize(darken($color--primary, 60%), 0.6);
       @include sm {
         //transform: perspective(650px) rotateZ(5deg) rotateX(-2.5deg) rotateY(-15deg) scale(0.8) translateX(-30px);
         transform: perspective(650px) scale(0.8) translateX(-30px);
