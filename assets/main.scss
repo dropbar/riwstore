@@ -10,7 +10,7 @@ $color--default: #3a3a3a;
 $color--light: lighten($color--default, 65%);
 $color--primary: #429bfc;
 $color--secondary: #429bfc;
-$color--background: #e3e5e7;
+$color--background: #E5E4E2;
 
 $size--unit: 8px;
 
@@ -93,7 +93,7 @@ body {
 // Components
 .header {
   width: 100%;
-  background-color: #fffa00;
+  background-color: #ffffff;
   display: flex;
   align-items: center;
   margin-bottom: $size--unit * 6;
