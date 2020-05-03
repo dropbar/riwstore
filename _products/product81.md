@@ -26,5 +26,5 @@ Raines Ironworks can deliver a wide array of custom items. From handcrafted furn
             <textarea rows="4" cols="50" name="projectDesc" id="InputProject" placeholder="Tell us about your project"></textarea>
           </div>
           <hr>
-          <button type="submit" class="buy-button snipcart-add-item"">Submit</button>
+          <button type="submit" class="buy-button snipcart-add-item">Submit</button>
         </form>
