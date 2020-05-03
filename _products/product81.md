@@ -1,12 +1,12 @@
 ---
-name: Custom Quote
+name: Need something special?
 layout: page
 title: Contact
 permalink: /contact/
 image: /assets/images/cart-1.jpeg
 ---
-Need Something Special?
-Raines Ironworks can deliver a wide array of custom items. From handcrafted furniture, doors and gates, utility racks and truck accessories to beautiful range hoods and barbecue pits. Click the Get a Quote button to get started on your custom project.
+
+Raines Ironworks can deliver a wide array of custom items. From handcrafted furniture, doors and gates, utility racks and truck accessories to beautiful range hoods and barbecue pits.Send us your contact info to get started.
 
 <form action="https://getform.io/f/41b43f92-faa6-4b9c-b046-af5dfa1641ea" method="POST">
           <div class="form-group">
