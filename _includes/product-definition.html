@@ -9,11 +9,13 @@
     data-item-name="{{ product.name }}"
     data-item-price="{{ product.price }}"
     data-item-image="{{ product.image }}"
-    data-item-url="https://store.rainesironworks.com{{ page.url }}">
+    data-item-url="https://store.rainesironworks.com{{ page.url }}"
+    data-item-description="{{ product.shortdesc }}"
+    data-item-weight="{{ product.weight}}">
     Add to Cart
   </button>
   {% endif %}
-  {% if product.standard %}
+  {% if product.standardone %}
   <label for="{{ product.identifier }}-qty">Quantity:</label>
   <input type="number" id="{{ product.identifier }}-qty" class="qty" min="1" value="1" />
   <button
@@ -25,7 +27,102 @@
     data-item-image="{{ product.image }}"
     data-item-url="https://store.rainesironworks.com{{ page.url }}"
     data-item-custom1-name="Color"
-    data-item-custom1-options="Black|White|Gray">
+    data-item-custom1-options="Black|White|Gray"
+    data-item-description="{{ product.shortdesc }}"
+    data-item-custom22-name="With crystal"
+    data-item-custom22-options="Yes[+5.00]|No"
+    data-item-weight="{{ product.weight}}">
+    <!--data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}"-->
+    <!--data-item-custom2-name="Custom Color"-->
+    <!--Add 1 to your cart (${{ product.price }})-->
+    Add to Cart
+  </button>
+  {% endif %}
+  {% if product.standard46 %}
+  <label for="{{ product.identifier }}-qty">Quantity:</label>
+  <input type="number" id="{{ product.identifier }}-qty" class="qty" min="1" value="1" />
+  <button
+    class="buy-button snipcart-add-item"
+    data-item-quantity="1"
+    data-item-id="{{ product.identifier }}"
+    data-item-name="{{ product.name }}"
+    data-item-price="{{ product.price }}"
+    data-item-image="{{ product.image }}"
+    data-item-url="https://store.rainesironworks.com{{ page.url }}"
+    data-item-description="{{ product.shortdesc }}"
+    data-item-custom46-name="Size"
+    data-item-custom46-options="4 in.|6 in.[+5.00]"
+    data-item-custom1-name="Color"
+    data-item-custom1-options="Black|White|Gray"
+    data-item-weight="{{ product.weight}}">
+    <!--data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}"-->
+    <!--data-item-custom2-name="Custom Color"-->
+    Add to your cart (${{ product.price }})
+  </button>
+  {% endif %}
+  {% if product.standard6810 %}
+  <label for="{{ product.identifier }}-qty">Quantity:</label>
+  <input type="number" id="{{ product.identifier }}-qty" class="qty" min="1" value="1" />
+  <button
+    class="buy-button snipcart-add-item"
+    data-item-quantity="1"
+    data-item-id="{{ product.identifier }}"
+    data-item-name="{{ product.name }}"
+    data-item-price="{{ product.price }}"
+    data-item-image="{{ product.image }}"
+    data-item-url="https://store.rainesironworks.com{{ page.url }}"
+    data-item-description="{{ product.shortdesc }}"
+    data-item-custom6810-name="Size"
+    data-item-custom6810-options="6 in.|8 in.|10 in."
+    data-item-custom1-name="Color"
+    data-item-custom1-options="Black|White|Gray"
+    data-item-weight="{{ product.weight}}">
+    <!--data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}"-->
+    <!--data-item-custom2-name="Custom Color"-->
+    <!--Add 1 to your cart (${{ product.price }})-->
+    Add to Cart
+  </button>
+  {% endif %}
+  {% if product.standard1012 %}
+  <label for="{{ product.identifier }}-qty">Quantity:</label>
+  <input type="number" id="{{ product.identifier }}-qty" class="qty" min="1" value="1" />
+  <button
+    class="buy-button snipcart-add-item"
+    data-item-quantity="1"
+    data-item-id="{{ product.identifier }}"
+    data-item-name="{{ product.name }}"
+    data-item-price="{{ product.price }}"
+    data-item-image="{{ product.image }}"
+    data-item-url="https://store.rainesironworks.com{{ page.url }}"
+    data-item-description="{{ product.shortdesc }}"
+    data-item-custom1-name="Color"
+    data-item-custom1-options="Black|White|Gray"
+    data-item-custom1012-name="Size"
+    data-item-custom1012-options="10 in.|12 in.[+10.00]"
+    data-item-weight="{{ product.weight}}">
+    <!--data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}"-->
+    <!--data-item-custom2-name="Custom Color"-->
+    <!--Add 1 to your cart (${{ product.price }})-->
+    Add to Cart
+  </button>
+  {% endif %}
+  {% if product.standard1424 %}
+  <label for="{{ product.identifier }}-qty">Quantity:</label>
+  <input type="number" id="{{ product.identifier }}-qty" class="qty" min="1" value="1" />
+  <button
+    class="buy-button snipcart-add-item"
+    data-item-quantity="1"
+    data-item-id="{{ product.identifier }}"
+    data-item-name="{{ product.name }}"
+    data-item-price="{{ product.price }}"
+    data-item-image="{{ product.image }}"
+    data-item-url="https://store.rainesironworks.com{{ page.url }}"
+    data-item-description="{{ product.shortdesc }}"
+    data-item-custom1-name="Color"
+    data-item-custom1-options="Black|White|Gray"
+    data-item-custom1424-name="Size"
+    data-item-custom1424-options="14 in.|24 in.[+100.00]"
+    data-item-weight="{{ product.weight}}">
     <!--data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}"-->
     <!--data-item-custom2-name="Custom Color"-->
     <!--Add 1 to your cart (${{ product.price }})-->
@@ -43,9 +140,10 @@
     data-item-price="{{ product.price }}"
     data-item-image="{{ product.image }}"
     data-item-url="https://store.rainesironworks.com{{ page.url }}"
-    data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}"
-    data-item-custom2-name="Finish"
-    data-item-custom2-options="Raw|Black|White|Teal|Pink|Yellow|Green">
+    data-item-description="{{ product.shortdesc }}"
+    data-item-custom1-name="Color"
+    data-item-custom1-options="Raw|Black|White|Teal|Pink|Yellow|Green"
+    data-item-weight="{{ product.weight}}">
     Add 1 to your cart (${{ product.price }})
   </button>
   {% endif %}

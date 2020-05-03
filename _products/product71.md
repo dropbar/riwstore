@@ -3,7 +3,9 @@ identifier: RI-HH
 name: Horizon
 price: 44.99
 image: /assets/images/horizon.jpeg
-standard: standard
+standardone: standardone
+shortdesc: Powder coated metal hanging planter
+weight: 12
 #file_guid: 66edfe7f-0851-4418-93e8-785975df7318
 ---
 

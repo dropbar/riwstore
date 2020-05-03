@@ -4,6 +4,8 @@ name: Outasight
 price: 199.99
 image: /assets/images/hide-01.jpg
 basic: basic
+shortdesc: Powder coated metal planter with integrated drain
+weight: 45
 #file_guid: 66edfe7f-0851-4418-93e8-785975df7318
 ---
 

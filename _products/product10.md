@@ -3,7 +3,9 @@ identifier: RI-GHP
 name: Giant Hexagon
 price: 74.99
 image: /assets/images/bix-hex.jpeg
-standard: standard
+standard1012: standard1012
+shortdesc: Powder coated extra large hexagon wall mounted planter
+weight: 15
 #file_guid: 09e589c7-3d18-4c2e-9cee-4f447e9f054a
 ---
 

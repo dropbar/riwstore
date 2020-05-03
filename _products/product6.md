@@ -3,7 +3,9 @@ identifier: RI-SH
 name: Sweetheart
 price: 39.99
 image: /assets/images/heartRing.jpg
-standard: standard
+standard46: standard46
+shortdesc: Powder coated metal heart shaped wall mounted planter
+weight: 10
 #file_guid: 66edfe7f-0851-4418-93e8-785975df7318
 ---
 

@@ -3,7 +3,9 @@ identifier: RI-SB
 name: Balloon
 price: 74.99
 image: /assets/images/lead-ballon.jpeg
-standard: standard
+standard6810: standard6810
+shortdesc: Powder coated metal Hot Air Balloon hanging planter.
+weight: 15
 #file_guid: 66edfe7f-0851-4418-93e8-785975df7318
 ---
 
@@ -12,3 +14,4 @@ standard: standard
 - Black, White, or Gray  
 - Holds 6", 8", or 10" pot (indicate at checkout)  
 - Measures 18" tall by 12" wide
+- $74.99
