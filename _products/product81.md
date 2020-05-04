@@ -6,7 +6,7 @@ permalink: /contact/
 image: /assets/images/cart-1.jpeg
 ---
 
-Raines Ironworks can deliver a wide array of custom items. From handcrafted furniture, doors and gates, utility racks and truck accessories to beautiful range hoods and barbecue pits.Send us your contact info to get started.
+Raines Ironworks can deliver a wide array of custom items. From handcrafted furniture, doors and gates, utility racks and truck accessories to beautiful range hoods and barbecue pits. Send us your contact info to get started.
 
 <form action="https://getform.io/f/41b43f92-faa6-4b9c-b046-af5dfa1641ea" method="POST">
           <div class="form-group">
