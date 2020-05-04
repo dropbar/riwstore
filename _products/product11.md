@@ -10,6 +10,7 @@ weight: 15
 ---
 
 
+- Faith, Love and Hope wall mounted decor
 - Steel with a Bronze finish
 - 14"x14" $74.99
 - 24"x24" $174.99
