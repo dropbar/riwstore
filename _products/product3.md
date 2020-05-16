@@ -6,9 +6,9 @@ image: /assets/images/threelegs.jpg
 multicolor: multicolor
 shortdesc: Wood and iron plant stand
 weight: 908
-height: 10.5
-width: 6.35
-length: 21.5
+height: 11
+width: 7
+length: 22
 #file_guid: 79b1504d-9127-4e7f-bcdb-dff84a337775
 ---
 

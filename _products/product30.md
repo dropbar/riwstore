@@ -6,9 +6,9 @@ image: /assets/images/circle-small.jpeg
 standard46: standard46
 shortdesc: Powder coated steel hanging planter
 weight: 908
-height: 10.5
-width: 6.35
-length: 21.5
+height: 11
+width: 7
+length: 22
 #file_guid: 79b1504d-9127-4e7f-bcdb-dff84a337775
 ---
 
