@@ -5,7 +5,10 @@ price: 74.99
 image: /assets/images/lead-ballon.jpeg
 standard6810: standard6810
 shortdesc: Powder coated metal Hot Air Balloon hanging planter.
-weight: 15
+weight: 908
+height: 10.5
+width: 6.35
+length: 21.5
 #file_guid: 66edfe7f-0851-4418-93e8-785975df7318
 ---
 

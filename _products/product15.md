@@ -5,7 +5,10 @@ price: 199.99
 image: /assets/images/hide-01.jpg
 basic: basic
 shortdesc: Powder coated metal planter with integrated drain
-weight: 45
+weight: 908
+height: 10.5
+width: 6.35
+length: 21.5
 #file_guid: 66edfe7f-0851-4418-93e8-785975df7318
 ---
 

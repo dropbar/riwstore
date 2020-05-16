@@ -5,7 +5,10 @@ price: 39.99
 image: /assets/images/heartRing.jpg
 standard46: standard46
 shortdesc: Powder coated metal heart shaped wall mounted planter
-weight: 10
+weight: 908
+height: 10.5
+width: 6.35
+length: 21.5
 #file_guid: 66edfe7f-0851-4418-93e8-785975df7318
 ---
 

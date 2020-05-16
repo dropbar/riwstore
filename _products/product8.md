@@ -5,7 +5,10 @@ price: 39.99
 image: /assets/images/hexpot.jpg
 standard46: standard46
 shortdesc: Powder coated metal wall mounted hexagon
-weight: 10
+weight: 908
+height: 10.5
+width: 6.35
+length: 21.5
 #file_guid: 09e589c7-3d18-4c2e-9cee-4f447e9f054a
 ---
 

@@ -5,7 +5,10 @@ price: 44.99
 image: /assets/images/threelegs.jpg
 multicolor: multicolor
 shortdesc: Wood and iron plant stand
-weight: 15
+weight: 908
+height: 10.5
+width: 6.35
+length: 21.5
 #file_guid: 79b1504d-9127-4e7f-bcdb-dff84a337775
 ---
 

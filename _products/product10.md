@@ -5,7 +5,10 @@ price: 74.99
 image: /assets/images/bix-hex.jpeg
 standard1012: standard1012
 shortdesc: Powder coated extra large hexagon wall mounted planter
-weight: 15
+weight: 908
+height: 10.5
+width: 6.35
+length: 21.5
 #file_guid: 09e589c7-3d18-4c2e-9cee-4f447e9f054a
 ---
 
