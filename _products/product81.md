@@ -1,6 +1,5 @@
 ---
 name: Need something special?
-layout: page
 title: Contact
 permalink: /contact/
 image: /assets/images/cart-1.jpeg
@@ -11,7 +10,7 @@ Raines Ironworks can deliver a wide array of custom items. From handcrafted furn
 <form action="https://getform.io/f/41b43f92-faa6-4b9c-b046-af5dfa1641ea" method="POST">
           <div class="form-group">
             <label for="InputEmail1" required="required">Email address</label>
-            <input type="email" name="email" class="form-control" id="InputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+            <input type="email" name="email" class="form-control" id="InputEmail1" placeholder="Enter email">
           </div>
           <div class="form-group">
             <label for="InputName">Name</label>
