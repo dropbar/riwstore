@@ -5,10 +5,11 @@ price: 74.99
 image: /assets/images/anchor.jpg
 standard1424: standard1424
 shortdesc: Faith, Love, and Hope
-weight: 908
-height: 11
-width: 7
-length: 22
+weight: 454
+height: 13
+width: 15
+length: 28
+stackable: true
 #file_guid: 66edfe7f-0851-4418-93e8-785975df7318
 ---
 
