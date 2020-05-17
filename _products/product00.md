@@ -5,7 +5,7 @@ price: 49.99
 image: /assets/images/fancyhookers.jpg
 basic: basic
 shortdesc: Wood and metal wall mounted gun rack.
-weight: 908
+weight: 5
 height: 11
 width: 7
 length: 22
