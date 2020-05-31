@@ -6,9 +6,9 @@ image: /assets/images/anchor.jpg
 standard1424: standard1424
 shortdesc: Faith, Love, and Hope
 weight: 454
-height: 13
-width: 15
-length: 28
+height: 16
+width: 48
+length: 48
 stackable: true
 #file_guid: 66edfe7f-0851-4418-93e8-785975df7318
 ---

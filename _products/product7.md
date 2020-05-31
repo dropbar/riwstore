@@ -6,9 +6,9 @@ image: /assets/images/lead-ballon.jpeg
 standard6810: standard6810
 shortdesc: Powder coated metal Hot Air Balloon hanging planter.
 weight: 454
-height: 13
-width: 15
-length: 28
+height: 35
+width: 35
+length: 50
 stackable: true
 #file_guid: 66edfe7f-0851-4418-93e8-785975df7318
 ---
@@ -16,6 +16,5 @@ stackable: true
 
 - Powder coated metal Hot Air Balloon hanging planter.
 - Black, White, or Gray  
-- Holds 6", 8", or 10" pot (indicate at checkout)  
 - Measures 18" tall by 12" wide
 - $74.99

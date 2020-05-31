@@ -6,9 +6,9 @@ image: /assets/images/horizon.jpeg
 standardone: standardone
 shortdesc: Powder coated metal hanging planter
 weight: 454
-height: 13
-width: 15
-length: 28
+height: 25
+width: 25
+length: 66
 stackable: true
 #file_guid: 66edfe7f-0851-4418-93e8-785975df7318
 ---

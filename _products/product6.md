@@ -6,9 +6,9 @@ image: /assets/images/heartRing.jpg
 standard46: standard46
 shortdesc: Powder coated metal heart shaped wall mounted planter
 weight: 454
-height: 13
-width: 15
-length: 28
+height: 16
+width: 46
+length: 46
 stackable: true
 #file_guid: 66edfe7f-0851-4418-93e8-785975df7318
 ---

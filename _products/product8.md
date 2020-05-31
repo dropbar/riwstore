@@ -6,9 +6,9 @@ image: /assets/images/hexpot.jpg
 standard46: standard46
 shortdesc: Powder coated metal wall mounted hexagon
 weight: 454
-height: 13
-width: 15
-length: 28
+height: 16
+width: 46
+length: 46
 stackable: true
 #file_guid: 09e589c7-3d18-4c2e-9cee-4f447e9f054a
 ---

@@ -6,9 +6,9 @@ image: /assets/images/bix-hex.jpeg
 standard1012: standard1012
 shortdesc: Powder coated extra large hexagon wall mounted planter
 weight: 454
-height: 13
-width: 15
-length: 28
+height: 35
+width: 75
+length: 75
 stackable: true
 #file_guid: 09e589c7-3d18-4c2e-9cee-4f447e9f054a
 ---
