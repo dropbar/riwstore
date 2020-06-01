@@ -55,3 +55,7 @@ plugins:
 
 collections:
   - products
+  - features
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed

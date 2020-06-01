@@ -4,6 +4,8 @@
 
 layout: default
 ---
+<div class="container">
 {% for product in site.products %}
   {% include product.html %}
 {% endfor %}
+</div>
