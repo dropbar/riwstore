@@ -1,4 +1,5 @@
 ---
+title: Sweetheart
 identifier: RI-SH
 name: Sweetheart
 price: 39.99

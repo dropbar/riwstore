@@ -1,4 +1,5 @@
 ---
+title: Balloon
 identifier: RI-SB
 name: Balloon
 price: 74.99

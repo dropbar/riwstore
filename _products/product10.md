@@ -1,4 +1,5 @@
 ---
+title: Giant Hexagon
 identifier: RI-GHP
 name: Giant Hexagon
 price: 74.99

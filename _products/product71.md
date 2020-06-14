@@ -1,4 +1,5 @@
 ---
+title: Horizon
 identifier: RI-HH
 name: Horizon
 price: 44.99

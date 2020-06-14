@@ -1,4 +1,5 @@
 ---
+title: Birdie Foot
 identifier: RI-BF
 name: Birdie Foot
 price: 44.99
@@ -10,6 +11,8 @@ height: 35
 width: 35
 length: 50
 stackable: true
+header:
+  teaser: /assets/images/birdie1.JPG
 #file_guid: 79b1504d-9127-4e7f-bcdb-dff84a337775
 ---
 

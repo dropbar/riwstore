@@ -1,4 +1,5 @@
 ---
+title: 3 Traits
 identifier: RI-FLH
 name: 3 Traits
 price: 74.99

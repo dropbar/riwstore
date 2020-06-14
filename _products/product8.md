@@ -1,4 +1,5 @@
 ---
+title: Hexagon
 identifier: RI-HP
 name: Hexagon
 price: 39.99

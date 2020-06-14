@@ -1,5 +1,5 @@
 ---
-title: Products
+title: RIW Decorative Products
 layout: collection
 permalink: /products/
 collection: products

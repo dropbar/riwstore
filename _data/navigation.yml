@@ -1,7 +1,7 @@
 # main links
   main:
   - title: "Shop"
-    url: /shop/
+    url: /products/
   - title: "Contact"
     url: https://google.com
   # - title: "About"

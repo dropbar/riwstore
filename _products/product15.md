@@ -1,4 +1,5 @@
 ---
+title: Outasight
 identifier: RI-OP
 name: Outasight
 price: 199.99
