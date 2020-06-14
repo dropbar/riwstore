@@ -31,6 +31,7 @@ Raines Ironworks specializes in the fusion of steel, copper, brass, zinc, and wo
 gallery:
   - url: assets/images/riwnew/ghex3.JPG
     image_path: assets/images/riwnew/ghex3.JPG
+    image_caption: "Birdie"
     alt: "Birdie"
   - url: assets/images/riwnew/birdie1.JPG
     image_path: assets/images/riwnew/birdie1.JPG
