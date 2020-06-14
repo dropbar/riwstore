@@ -29,9 +29,11 @@ twitter_username: dropbar
 github_username:  dropbar
 
 # Build settings
+repository: Dixhom/dixhom.github.io
 remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 plugins:
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 defaults:
   # _posts
