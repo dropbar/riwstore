@@ -1,10 +1,4 @@
 ---
 layout: home
-heading: One Page Wonder
-subheading: Will Knock Your Socks Off
+author_profile: true
 ---
-
-
-<div class="container">
-  {% include features.html %}
-</div>

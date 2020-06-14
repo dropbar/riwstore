@@ -1,4 +1,5 @@
 ---
+title: Fancy Hookers
 identifier: RI-FH
 name: Gun Rack
 price: 49.99

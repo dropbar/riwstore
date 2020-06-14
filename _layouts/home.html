@@ -1,16 +1,19 @@
 ---
-layout: compress
+layout: archive
 ---
-<!DOCTYPE html>
-<html>
-  {% include head.html %}
-  {% include navigationold.html %}
-  {% include header.html %}
-  <body>
-  	{{ content }}
-  	<script src='{{ site.baseurl }}/assets/app.js'></script>
-	</body>
-  <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.13/default/snipcart.css" />
-  <div id="snipcart" data-api-key="ODY0ZmUwNTItMWY3Ni00ZGUxLTgzZTEtZDg1ZjdlYTI3MzMzNjM2OTkzMzI2ODY1NTgzMTQ4" hidden></div>
-  <script src="https://cdn.snipcart.com/themes/v3.0.13/default/snipcart.js"></script>
-</html>
+
+{{ content }}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% for post in posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
