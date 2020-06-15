@@ -26,7 +26,7 @@ feature_row2:
   - excerpt: '***What we Do***
 
 
-Raines Ironworks specializes in the fusion of steel, copper, brass, zinc, and wood to take your ideas to the next level. Handmade range hoods, Firescreens, Counters, Sinks, Fire pits, Gates, Doors. Anything you can imagine, Raines Ironworks can build it.'
+Raines Ironworks specializes in the fusion of steel, copper, brass, zinc, and wood to take your ideas to the next level. Handmade range hoods, firescreens, sinks, fire pits, gates. Anything you can imagine, Raines Ironworks can build it.'
 gallery:
   - url: assets/images/riwnew/ghex3.JPG
     image_path: assets/images/riwnew/ghex3.JPG
