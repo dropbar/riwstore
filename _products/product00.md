@@ -3,7 +3,7 @@ title: Fancy Hookers
 identifier: RI-FH
 name: Gun Rack
 price: 49.99
-image: /assets/images/fancyhookers.jpg
+image: /assets/images/riwnew/gun1.jpeg
 basic: basic
 shortdesc: Wood and metal wall mounted gun rack.
 weight: 454
