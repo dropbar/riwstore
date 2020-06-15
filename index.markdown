@@ -9,12 +9,11 @@ header:
   overlay_image: /assets/images/spark1.jpg
   actions:
     - label: "Contact"
-excerpt: "Fabrication and design * Handmade quality * Furniture and decor"
+excerpt: "Fabrication and design  
+Handmade quality  
+Furniture and decor"
 intro:
-  - excerpt: '***Fabrication and Design***
-
-
-  Artisan metal and wood designs. Handmade quality. Keeping your space unique since 2016'
+  - excerpt: '***Keeping your space unique since 2016***'
 feature_row:
   - image_path: /assets/images/riwnew/gate1.jpeg
     alt: "gate"
