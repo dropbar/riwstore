@@ -17,10 +17,10 @@ header:
 gallery:
   - url: /assets/images/riwnew/birdie1.jpg
     image_path: /assets/images/riwnew/birdie1.jpg
-  - url: assets/images/riwnew/birdie2.JPG
-    image_path: assets/images/riwnew/birdie2.JPG
-  - url: assets/images/riwnew/birdie3.JPG
-    image_path: assets/images/riwnew/birdie3.JPG
+  - url: /assets/images/riwnew/birdie2.JPG
+    image_path: /assets/images/riwnew/birdie2.JPG
+  - url: /assets/images/riwnew/birdie3.JPG
+    image_path: /assets/images/riwnew/birdie3.JPG
 #file_guid: 79b1504d-9127-4e7f-bcdb-dff84a337775
 ---
 

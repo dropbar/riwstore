@@ -19,8 +19,8 @@ gallery:
     image_path: /assets/images/riwnew/ghex2.JPG
   - url: /assets/images/riwnew/ghex1.JPG
     image_path: /assets/images/riwnew/ghex1.JPG
-  - url: assets/images/riwnew/ghex3.JPG
-    image_path: assets/images/riwnew/ghex3.JPG
+  - url: /assets/images/riwnew/ghex3.JPG
+    image_path: /assets/images/riwnew/ghex3.JPG
 #file_guid: 09e589c7-3d18-4c2e-9cee-4f447e9f054a
 ---
 
