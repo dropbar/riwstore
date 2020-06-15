@@ -1,9 +1,11 @@
 # main links
   main:
   - title: "Shop"
+    url: /shop/
+  - title: "Products"
     url: /products/
-  - title: "Contact"
-    url: https://google.com
+  - title: "Gallery"
+    url: /gallery/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

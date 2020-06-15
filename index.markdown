@@ -9,18 +9,18 @@ header:
   overlay_image: /assets/images/spark1.jpg
   actions:
     - label: "Contact"
-excerpt: "Bacon salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Fabrication and design * Handmade quality * Furniture and decor"
 intro:
   - excerpt: '***Fabrication and Design***
 
 
   Artisan metal and wood designs. Handmade quality. Keeping your space unique since 2016'
 feature_row:
-  - image_path: /assets/images/IMG_5365_750.jpeg
+  - image_path: /assets/images/riwnew/gate1.jpeg
     alt: "gate"
-  - image_path: /assets/images/bench.jpg
+  - image_path: /assets/images/riwnew/bench.jpg
     alt: "placeholder image 2"
-  - image_path: /assets/images/IMG_4261.jpg
+  - image_path: /assets/images/riwnew/range.jpg
 
 
 feature_row2:

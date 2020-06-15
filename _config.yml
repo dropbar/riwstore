@@ -115,9 +115,8 @@ defaults:
       type: products
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
-      excerpt: false
 
 
 category_archive:
